@@ -1,0 +1,15 @@
+Projet de la nuit de l'info de l'équipe LES 4 PROGRAMMEURS DE L APOCALYPSE:
+
+Il s'agit d'un site comportant une page de jeu et une page des règles du dit jeu.
+Le jeu consiste en un visual novel entrecoupé de phases de tower defense.
+Le site est développé en html/css et javascript.
+Les fonctionnalités développées sont les suivantes :
+    Partie isual novel:
+        - Arc 1 de l'histoire (visual novel)
+        - Intéractions avec la zone de jeu
+    Partie tower defense:
+        - 2 carte de tower defense
+        - Intéractions avec les emplacements de tours
+        - 3 tours de défense pouvant être placés
+        - Déplacements des ennemis
+        - Apparition dynamique des ennemis
